@@ -20,6 +20,6 @@
     "pdfjs-dist": "^1.5.446"
   },
   "devDependencies": {
-    "standard": "^10.0.3"
+    "standard": "^14.3.1"
   }
 }
